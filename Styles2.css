@@ -1,0 +1,44 @@
+/** letecode.com **/
+
+body {
+    background-color: white;
+    color: black;
+
+
+    padding: 100px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+pre.western {
+	font-family: "Liberation Mono", monospace;
+	font-size: 10pt
+}
+
+@media (min-width: 640px) { 
+	pre.western {
+		font-size: 10pt;
+	}
+}
+@media (min-width: 768px) { 
+	pre.western {
+		font-size: 10pt;
+	}
+}
+@media (min-width: 1024px) { 
+	pre.western {
+		font-size: 10pt;
+	}
+}
+@media (min-width: 1280px) { 
+	pre.western {
+		font-size: 10pt;
+	}
+}
+@media (min-width: 1536px) { 
+	pre.western {
+		font-size: 20pt;
+	}
+}

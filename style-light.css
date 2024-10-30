@@ -1,0 +1,68 @@
+/** letecode.com **/
+
+body {
+    background-color: white;
+    color: black;
+
+
+    padding: 100px;
+}
+
+h1 {
+    background-color: black;
+    font-size: 1.2em;
+    color: white;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.theme {
+    float: right;
+}
+
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 5px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+pre.western {
+    font-family: "Liberation Mono", monospace;
+    font-size: 10pt
+}
+
+@media (min-width: 640px) { 
+    pre.western {
+        font-size: 10pt;
+    }
+}
+@media (min-width: 768px) { 
+    pre.western {
+        font-size: 10pt;
+    }
+}
+@media (min-width: 1024px) { 
+    pre.western {
+        font-size: 10pt;
+    }
+}
+@media (min-width: 1280px) { 
+    pre.western {
+        font-size: 10pt;
+    }
+}
+@media (min-width: 1536px) { 
+    pre.western {
+        font-size: 20pt;
+    }
+}
